@@ -76,6 +76,7 @@ With full DRM support and Multi-Key DRM, this app offers strong protection for y
 - 🚫 **This app does not include IPTV content, TV channels, or playlists.**  
   You must provide your own IPTV playlist or streaming source.
 - 💡 For the best results, use official or trusted IPTV providers.
+- **Although this app is not open-source, it provides API Intent for external access**, allowing developers to integrate it with other applications. This feature enables a seamless experience for third-party integrations while maintaining security and stability.
 
 ---
 
@@ -87,6 +88,7 @@ Make DRM IPTV Streaming Player (Video) your go-to app for secure and high-qualit
 <a href="https://play.google.com/store/apps/details?id=org.drm.player&pcampaignid=web_share">
   <img alt="Get it on Google Play" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/>
 </a>
+
 ---
 
 ## 🔎 Keywords
@@ -105,4 +107,4 @@ You are free to use, modify, and redistribute with proper copyright and license 
 ## 📫 Contact
 
 For contributions or inquiries, please contact the development team at:  
-📧 `support@iptvdrmstreamer.example.com` *(replace with your actual email address)*
+📧 `indoverseid@gmail.com` *(replace with your actual email address)*

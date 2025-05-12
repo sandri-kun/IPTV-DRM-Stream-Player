@@ -2,6 +2,10 @@
 
 [![Download on Google Play](https://img.shields.io/badge/Download-Google_Play-black?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=org.drm.player&pcampaignid=web_share)
 
+<a href="https://play.google.com/store/apps/details?id=org.drm.player&pcampaignid=web_share">
+  <img alt="Get it on Google Play" height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/>
+</a>
+
 Discover the best free DRM IPTV streaming player designed for all your video streaming needs! This smart application offers a seamless viewing experience with support for various IPTV protocols, network streaming, and popular media formats. Whether you're enjoying live TV broadcasts, Video on Demand (VOD), or Catch-up TV, the app ensures top-tier quality and security with advanced Digital Rights Management (DRM) technologies—including Multi-Key DRM support. Plus, adaptive streaming powered by ABR (Adaptive Bitrate Streaming) automatically adjusts to your internet speed for smooth, buffer-free playback.
 
 ---
